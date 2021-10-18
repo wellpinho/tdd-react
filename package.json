@@ -1,0 +1,23 @@
+{
+  "name": "tdd-react",
+  "version": "1.0.0",
+  "description": "Testes automatizados com Jest e React",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wellpinho/tdd-react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wellpinho/tdd-react/issues"
+  },
+  "homepage": "https://github.com/wellpinho/tdd-react#readme",
+  "devDependencies": {
+    "jest": "^27.3.0"
+  }
+}
