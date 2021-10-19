@@ -1,7 +1,7 @@
-const add = require('./calc')
+import {add} from './calc'
 
 describe('Calculator', () => {
   it('add two numbers', () => {
-    expect(add(5, 5)).toEqual(10)
+    expect(add(1, 2)).toEqual(3)
   })
 })

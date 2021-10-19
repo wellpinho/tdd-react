@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/wellpinho/tdd-react#readme",
   "devDependencies": {
-    "jest": "^27.3.0"
+    "@babel/preset-env": "^7.15.8",
+    "babel-core": "^6.26.3",
+    "babel-jest": "^27.3.0",
+    "jest": "^27.3.0",
+    "regenerator-runtime": "^0.13.9"
   }
 }

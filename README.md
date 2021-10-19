@@ -19,3 +19,11 @@ Testes automatizados com Jest e React
           "**/__tests__/**/*.[jt]s?(x)",
         "**/?(*.)+(spec|test).[tj]s?(x)"
       ],
+
+  5. npm i -D babel-jest babel-core regenerator-runtme @babel/preset-env
+  6. crair arquivo de configuração do babel .babelrc
+     1. {
+          "presets": [
+            "@babel/preset-env"
+          ]
+        }
